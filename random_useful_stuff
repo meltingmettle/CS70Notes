@@ -43,6 +43,9 @@ FLT for 2^50
   ¬(P∧Q)⟺(¬P)∨(¬Q)
   ¬(∀xP(x))⟺∃x¬P(x)
   ¬(∃xP(x))⟺∀x¬P(x)
+  
+  https://mathoverflow.net/questions/31699/strengthening-the-induction-hypothesis
+  https://math.stackexchange.com/questions/280844/using-the-distributivity-law-for-propositional-logic
 
 6. Find good timing! :D
 
