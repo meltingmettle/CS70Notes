@@ -58,3 +58,28 @@ FLT for 2^50
   complete graphs
   trees
   hypercubes
+  
+10. Associated mod tricks:
+  Day of the year
+  365 * n + leap years
+  1 * n + leap years
+  Days from today
+  
+  some number ^ (some number)
+  FLT- 2 ^ 50 (mod 65) -> 13 * 5 = 65
+  2 ^ (12 * 4) = 1 
+  1 * 2^2 
+  4
+  OR
+  4 = -1 mod 5
+  4 ^ 96 mod 5 = 1
+  
+11. Hypercube Definitions
+
+12. Tree definitions
+
+13.  Paths and crap
+
+14.  IMPORTANT: Prepositions cannot have a free variable. 
+
+15. Not P or Q   ===>  P implies Q
