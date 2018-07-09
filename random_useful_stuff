@@ -7,13 +7,18 @@ Strategies:
 WOP - Choose a largest/smallest/first day.  "Say there is a longest cycle c..."
 Contradiction (on induction?)
 Strengthen by adding something similar with n.  
-Create a variable.  "Say there is a vertex v..."
+Create a variable to get started on a tough proof.  "Say there is a vertex v..."
+
+* IMPORTANT *
+Wikipedia hypercube and complete graph formulas.  How many edges are there in a complete graph? How many in a hypercube?
+How many edges and vertices in an n-dimension hypercube?
 
 
-Propositions
+FOR PLANARITY:
+Draw it out.  Make sure you understand what they're asking.  Try drawing K5 and K3,3 within the definitions of the question, and if you get stuck on both, explain why.
 
 
-FLT for 2^50
+FLT for 2^50 mod 
 2 ^ what (mod something) = 1
 Remember FLT and see if the multiples of the mod are the exponent minus 1. 
 
