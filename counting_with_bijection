@@ -2,7 +2,7 @@
 Counting by bijection:
 
 If you recognize that the Law of the Excluded Middle applies to a problem, counting by bijection may be viable.
-Basically, for a problem like "The subset of all numbers which sum to 638 in the sum of {1, 2, ....50}" or "How many ways are there for P to be on the left of G in a random arrangement of the letters of "GRACEPOINT".
+Basically, for a problem like "The subset of all numbers which sum greater than 638 in the sum of {1, 2, ....50}" or "How many ways are there for P to be on the left of G in a random arrangement of the letters of "GRACEPOINT".
 
 Either it sums to 638 or it doesn't.  Either P is on the left of G or it isn't. 
 As such, of all possible combinations/arrangements of letters, P will be to the left of G in half of the arrangements, so (all total possible arrangements)/2 would be the answer.  (Too lazy to calculate; sorry XD)
